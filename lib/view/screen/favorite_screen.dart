@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../../controller/favorite_controller.dart';
 import '../../model/user_api_response_model.dart';
 import 'home_screen.dart';
